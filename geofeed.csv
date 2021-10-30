@@ -1,6 +1,7 @@
 185.5.200.0/24,IT,IT-57,San Benedetto del Tronto,
 185.5.201.0/24,IT,IT-57,San Benedetto del Tronto,
 185.5.202.0/24,IT,IT-57,Ascoli Piceno,
+185.5.202.255/32,IT,IT-57,San Benedetto del Tronto,
 185.5.203.0/24,IT,IT-57,San Benedetto del Tronto,
 2A02:CDC6:3074::/48,IT,IT-57,San Benedetto del Tronto,
 2A02:CDC6:3100::/48,IT,IT-57,Ascoli Piceno,
