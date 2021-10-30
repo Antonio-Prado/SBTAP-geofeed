@@ -6,3 +6,5 @@
 2A02:CDC6:3074::/48,IT,IT-57,San Benedetto del Tronto,
 2A02:CDC6:3100::/48,IT,IT-57,Ascoli Piceno,
 2A02:CDC5:9715::/48,IT,IT-57,Ascoli Piceno,
+2A02:CDC5:9715::/128,AU,AU-NSW,Sydney,
+2A02:CDC6:3100::/128,US,US-NY,New York,
